@@ -11,3 +11,5 @@ pyvenv.cfg
 __pycache__/
 CACHEDIR.TAG
 
+# Generated Outputs
+Graph/
