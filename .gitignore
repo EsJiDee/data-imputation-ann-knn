@@ -1,15 +1,8 @@
 # Virtual Environment files
-Lib/
-Scripts/
-share/
-pyvenv.cfg
+.venv/
 
 # IDE Settings
 .idea/
-
-# Caches and Generated artifacts
-__pycache__/
-CACHEDIR.TAG
 
 # Generated Outputs
 Graph/
