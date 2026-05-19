@@ -1,0 +1,13 @@
+# Virtual Environment files
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# IDE Settings
+.idea/
+
+# Caches and Generated artifacts
+__pycache__/
+CACHEDIR.TAG
+
