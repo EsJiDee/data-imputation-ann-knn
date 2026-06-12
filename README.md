@@ -1,5 +1,9 @@
 # 📊 Data Imputation using ANN, KNN, and MICE
 
+## Report File Link
+
+📖 **[Minor Project Report](https://drive.google.com/file/d/1DkrxzT5wr0tjvLG8nbsGmkH3WXNlLuV_/view?usp=sharing)**
+
 A machine learning project that explores, implements, and compares different data imputation techniques across various missing data mechanisms. This project evaluates how well Artificial Neural Networks (ANN), K-Nearest Neighbors (KNN), and Multiple Imputation by Chained Equations (MICE) recover missing values in the classic Iris dataset.
 
 ---
@@ -36,6 +40,17 @@ Compares Iterative ANN Imputation against KNN Imputation, including MSE vs. Iter
 
 ### `ANN_KNN_MICE.py`
 Expands the comparison to include MICE (Multiple Imputation by Chained Equations) and generates a detailed summary matrix of the MSE results.
+
+---
+
+## Conclusion / Result
+
+### Imputation Performance Comparison
+![Comparison](Graph/Imputation%20Performance%20Comparison.png)
+
+### Summary
+![Summary](Graph/Summary.png)
+
 
 ---
 
